@@ -1,0 +1,21 @@
+.accinfo {
+    background-color: aliceblue;
+    border: solid 1px #39527b;
+    margin-top: 15px;
+}
+
+.accinfo h1{
+    font-size: 15px;
+    text-align: left;
+    margin-left: 15px;
+    color: darkslategray;
+
+}
+
+.accinfo h3{
+    text-decoration: solid;
+    text-decoration: underline;
+    font-size: 20px;
+    text-align: center;
+    color: #39527b;
+}

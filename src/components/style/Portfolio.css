@@ -1,0 +1,26 @@
+.portfolio {
+    background-color: #8ab2e7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 5px solid #39527b;
+    border-radius: 5px;
+    min-height: 250px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .portfolio h1 {
+    font-size: 36px; 
+    color: #39527b; 
+    margin: 0;
+  }
+  .portfolio img {
+    width: 500px; 
+    height: 250px; 
+    border-radius: 5px;
+  }
+  .jyothi h2 {
+    color: #39527b;
+    margin: 0;
+  }
+  

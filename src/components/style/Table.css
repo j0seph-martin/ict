@@ -1,0 +1,22 @@
+.table {
+    margin-top: 20px;
+    border: 5px solid #39527b;
+    border-radius: 5px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 4px solid #39527b;
+    padding: 12px;
+    text-align: center;
+  }
+  th {
+    background-color: #8ab2e7;
+    color: #39527b;
+  }
+  td {
+    background-color: #bfcedd;
+  }
+  
